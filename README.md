@@ -3,13 +3,13 @@
 ![Python](https://img.icons8.com/fluency/48/000000/python.png)
 ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
 ![Angular](https://img.icons8.com/fluency/48/000000/angularjs.png)
-![Java](https://img.icons8.com/fluency/48/000000/java.png)
-![Kotlin](https://img.icons8.com/fluency/48/000000/kotlin.png)
+![Jetpack Compose](https://img.icons8.com/fluency/48/000000/android.png) <!-- Jetpack Compose -->
 ![TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)
 ![Git](https://img.icons8.com/fluency/48/000000/git.png)
-![PostgreSQL](https://img.icons8.com/fluency/48/000000/postgreesql.png)
+![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
-![MongoDB](https://img.icons8.com/fluency/48/000000/mongodb.png)
+![MongoDB](https://img.icons8.com/fluency/48/000000/no-sql-database.png) <!-- Reemplazo -->
+
 
 ## About me! ☕
 
