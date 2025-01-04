@@ -26,5 +26,5 @@ Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una
 
 
 ## 📧 Contact
-- [Linkedin]([URL](https://www.linkedin.com/in/fjzamora/))
-- [Portfolio online]([URL](https://fjzamora93.github.io/Portfolio/))
+- [LinkedIn](https://www.linkedin.com/in/fjzamora/)
+- [Portfolio online](https://fjzamora93.github.io/Portfolio/)
