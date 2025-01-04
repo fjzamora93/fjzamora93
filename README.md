@@ -8,7 +8,7 @@ Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una
 - Especializándome en desarollo de aplicaciones con Kotlin y Jetpack Compose.
 - Actualmente terminando mi formación en Desarrollo de Aplicaciones Multimedia.
 
-## Languages
+## 🖥️ Frameworks & technologies
 
 ![Python](https://img.icons8.com/fluency/48/000000/python.png)
 ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
