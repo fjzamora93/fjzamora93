@@ -1,4 +1,6 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm, typescript, angular, python, java, kotlin, git)](https://skillicons.dev)
+![Python](https://img.icons8.com/fluency/48/000000/python.png)
+![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
+![GitHub](https://img.icons8.com/fluency/48/000000/github.png)
 
 ## About me! ☕
 
