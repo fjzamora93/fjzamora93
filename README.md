@@ -8,7 +8,7 @@
 ![Git](https://img.icons8.com/fluency/48/000000/git.png)
 ![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
-![MongoDB](https://img.icons8.com/fluency/48/000000/no-sql-database.png) <!-- Reemplazo -->
+
 
 
 ## About me! ☕
