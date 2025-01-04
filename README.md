@@ -25,6 +25,6 @@ Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=fjzamora93&theme=dark&hide_border=true)
 
 
-## 📧 Contacto
+## 📧 Contact
 - [Linkedin]([URL](https://www.linkedin.com/in/fjzamora/))
 - [Portfolio online]([URL](https://fjzamora93.github.io/Portfolio/))
