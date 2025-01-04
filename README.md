@@ -5,7 +5,6 @@
 ![Angular](https://img.icons8.com/fluency/48/000000/angularjs.png)
 ![Jetpack Compose](https://img.icons8.com/fluency/48/000000/android.png) <!-- Jetpack Compose -->
 ![TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)
-![Git](https://img.icons8.com/fluency/48/000000/git.png)
 ![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
 
