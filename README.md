@@ -4,9 +4,9 @@
 
 Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una solución a todo lo que venga detrás. 😊
 
-- Colaboro en varios proyectos de análisis de datos e Inteligencia Artificial centrados en la Antártida (🐧 de pingüinos va el asunto 🐧 ). 
+- Colaboro en varios proyectos de análisis de datos e Inteligencia Artificial centrados en la Antártida (🐧 de pingüinos va el asunto 🐧 ).
 - Especializándome en desarollo de aplicaciones con Kotlin y Jetpack Compose.
-- Actualmente terminando mi formación en Desarrollo de Aplicaciones Multimedia.
+- Actualmente estoy terminando mi formación en Desarrollo de Aplicaciones Multimedia.
 
 ## 🖥️ Frameworks & technologies
 
