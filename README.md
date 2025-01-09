@@ -24,8 +24,6 @@ Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fjzamora93)](https://git.io/streak-stats)
 
-// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true&count_private=true&hide=prs)
-
 
 ## 📧 Contact
 - [LinkedIn](https://www.linkedin.com/in/fjzamora/)
