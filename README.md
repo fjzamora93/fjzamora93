@@ -18,13 +18,13 @@ Ante todo, hagamos las cosas sencillas... ya nos encargaremos de ir buscando una
 ![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&layout=compact&hide=jupyter%20notebook,html,css,ejs,xml,powershell,python)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&layout=compact&hide=jupyter%20notebook,html,css,ejs,xml,powershell)
 
 ## GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fjzamora93)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true&count_private=true&hide=prs)
+// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true&count_private=true&hide=prs)
 
 
 ## 📧 Contact
