@@ -18,7 +18,7 @@ La simplicidad se construye a cada paso.
 ![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
 
 ## GitHub Streak
 
