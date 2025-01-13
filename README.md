@@ -22,7 +22,7 @@ La simplicidad se construye a cada paso.
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fjzamora93)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjzamora93)
 
 ## 📧 Contact
 - [LinkedIn](https://www.linkedin.com/in/fjzamora/)
