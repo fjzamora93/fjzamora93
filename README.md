@@ -21,7 +21,7 @@ La simplicidad se construye a cada paso.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
 
 ## GitHub Stats
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true)
 
 ## 📧 Contact
