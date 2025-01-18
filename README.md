@@ -20,10 +20,10 @@ La simplicidad se construye a cada paso.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
 
-## GitHub Stats
- [![GitHub Streak](https://streak-stats.vercel.app?user=fjzamora93)](https://git.io/streak-stats) 
+| Streak Stats                                                                 | GitHub Stats                                                             |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [![GitHub Streak](https://streak-stats.vercel.app?user=fjzamora93)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true) |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjzamora93&show_icons=true)
 
 ## 📧 Contact
 - [LinkedIn](https://www.linkedin.com/in/fjzamora/)
