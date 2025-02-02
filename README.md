@@ -17,6 +17,7 @@ La simplicidad se construye a cada paso.
 ![TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)
 ![PostgreSQL](https://img.icons8.com/fluency/48/000000/database.png) <!-- Reemplazo -->
 ![Visual Studio](https://img.icons8.com/fluency/48/000000/visual-studio.png)
+![Docker](https://camo.githubusercontent.com/869b011ef3778c6dce9288ee988f59caec696153e3afb7219d858c05d317e368/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b6572)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
 
