@@ -2,7 +2,7 @@
 
 ## ☕ About me! 
 
-La simplicidad se construye a cada paso.
+Android & Mobile Developer.
 
 - Colaboro en varios proyectos de análisis de datos e Inteligencia Artificial centrados en la Antártida (🐧 de pingüinos va el asunto 🐧 ).
 - Especializándome en desarollo de aplicaciones con Kotlin y Jetpack Compose.
