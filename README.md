@@ -2,11 +2,12 @@
 
 ## ☕ About me! 
 
-Android & Mobile Developer.
+Desarrollador fullstack con experiencia en el diseño de aplicaciones web y móviles, así como arquitecturas backend basadas en Springboot y bases de datos relacionales y NoSQL.
 
-- Colaboro en varios proyectos de análisis de datos e Inteligencia Artificial centrados en la Antártida (🐧 de pingüinos va el asunto 🐧 ).
-- Especializándome en desarollo de aplicaciones con Kotlin y Jetpack Compose.
-- Actualmente estoy terminando mi formación en Desarrollo de Aplicaciones Multimedia.
+Mi enfoque se basa en la simplicidad y el código limpio.
+
+Además, colaboro activamente en proyectos de análisis de datos e inteligencia artificial, aplicando machine learning con Python y frameworks como TensorFlow y PyTorch. He trabajado en iniciativas científicas que usan visión computacional para el seguimiento de pingüinos en la Antártida (¡sí, pingüinos! 🐧).
+
 
 ## 🖥️ Frameworks & technologies
 
