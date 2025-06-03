@@ -12,6 +12,7 @@ Además, colaboro activamente en proyectos de análisis de datos e inteligencia 
 ## 🖥️ Frameworks & technologies
 
 ![Python](https://img.icons8.com/fluency/48/000000/python.png)
+![Python](https://img.icons8.com/fluency/48/000000/flutter.png)
 ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
 ![Angular](https://img.icons8.com/fluency/48/000000/angularjs.png)
 ![Jetpack Compose](https://img.icons8.com/fluency/48/000000/android.png) <!-- Jetpack Compose -->
