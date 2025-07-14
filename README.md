@@ -2,11 +2,11 @@
 
 ## ☕ About me! 
 
-Desarrollador fullstack con experiencia en el diseño de aplicaciones web y móviles, así como arquitecturas backend basadas en Springboot y bases de datos relacionales y NoSQL.
+Desarrollador Fullstack focalizado en el desarrollo de aplicaciones móviles usando Dart (Flutter) y Kotlin (Jetpack Compose). Competencias en desarrollo de Api Rest y manejo de Firebase.
 
-Mi enfoque se basa en la simplicidad y el código limpio.
+A lo largo de mi trayectoria he tenido la oportunidad de trabajar en proyectos que abarcan desde el desarrollo de aplicaciones móviles hasta la creación de APIs RESTful y su posterior despliegue en el Google Play Store. 
 
-Además, colaboro activamente en proyectos de análisis de datos e inteligencia artificial, aplicando machine learning con Python y frameworks como TensorFlow y PyTorch. He trabajado en iniciativas científicas que usan visión computacional para el seguimiento de pingüinos en la Antártida (¡sí, pingüinos! 🐧).
+También me dedico al desarollo de aplicaciones web con Angular (versión 17 en adelante).
 
 
 ## 🖥️ Frameworks & technologies
