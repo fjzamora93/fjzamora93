@@ -12,7 +12,7 @@ También me dedico al desarollo de aplicaciones web con Angular (versión 17 en 
 ## 🖥️ Frameworks & technologies
 
 ![Flutter](https://img.icons8.com/fluency/48/000000/flutter.png)
-![Firebase](https://img.icons8.com/fluency/48/000000/firebase.png)
+[![Firebase](https://img.icons8.com/color/48/firebase.png)]
 ![Angular](https://img.icons8.com/fluency/48/000000/angularjs.png)
 ![TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
