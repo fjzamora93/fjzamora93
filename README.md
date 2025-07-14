@@ -24,7 +24,7 @@ También me dedico al desarollo de aplicaciones web con Angular (versión 17 en 
 ![Django](https://camo.githubusercontent.com/0f0e15aef74036399b03911fdc5b9765dd4faf8e09a4a28499cbede28a2b5f48/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646a616e676f)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjzamora93&hide=jupyter%20notebook,javascript,html,css,ejs,xml,powershell,c,cython,c%2B%2B&layout=compact)
 
 | Streak Stats                                                                 | GitHub Stats                                                             |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|
